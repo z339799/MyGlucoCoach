@@ -1,0 +1,6 @@
+
+
+
+
+
+// Write to shared preferences.
